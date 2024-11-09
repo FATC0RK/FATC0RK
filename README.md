@@ -1,4 +1,4 @@
-![](https://avatars.githubusercontent.com/u/82945217?v=4)
+<image align="center">![](https://avatars.githubusercontent.com/u/82945217?v=4)</image>
 <h1 align="center">HI, I'm FATC0RK!</h1>
 
 <h3 align="center">Someone That Codes Just To Make Some Stuff Look Good & Fast</h3>
