@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/82945217?v=4" alt="Sublime's custom image"/>
 </p>
-<h1 align="center">HI, I'm FATC0RK!</h1>
+<h1 align="center">Hi, I'm FATC0RK!</h1>
 
 <h3 align="center">Someone That Codes Just To Make Some Stuff Look Good & Fast</h3>
 
